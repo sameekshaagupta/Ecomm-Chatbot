@@ -143,10 +143,3 @@ npm start
   * Mock data generation scripts
 
 ---
-
-## 🗉️ Presentation (for recruiters)
-
-* Live demo (if deployed)
-* Code walkthrough
-* Challenges faced & resolution
-* Learnings from project execution
